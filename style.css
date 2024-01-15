@@ -1,4 +1,13 @@
-body
-{
+/* Light Mode Styles */
+body {
     font-family: Arial;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Dark Mode Styles */
+body.dark-mode {
+    font-family: Arial;
+    background-color: #333333;
+    color: #ffffff;
 }
