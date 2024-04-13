@@ -1,4 +1,9 @@
-**"Pride and Prejudice" by Jane Austen:**
+---
+title: 'Pride and Prejudice'
+author: 'Jane Austen'
+description: 'Lorem ipsum dolor sit amet'
+heroImage: '/blog-placeholder-2.jpg'
+---
 
 "Pride and Prejudice" is a classic novel by Jane Austen, published in 1813, that offers a rich portrayal of the social and romantic dynamics in early 19th-century England. At its core is the story of Elizabeth Bennet, the second-eldest daughter of the Bennet family. The narrative unfolds against the backdrop of a society heavily influenced by class distinctions, marriage expectations, and societal norms.
 

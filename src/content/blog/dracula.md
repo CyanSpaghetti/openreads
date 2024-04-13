@@ -1,4 +1,10 @@
-**"Dracula" by Bram Stoker:**
+---
+title: 'Dracula'
+author: 'Bram Stoker'
+description: 'Lorem ipsum dolor sit amet'
+heroImage: '/blog-placeholder-2.jpg'
+---
+
 
 Published in 1897, "Dracula" by Bram Stoker is a classic Gothic novel that has become synonymous with vampire lore. The narrative unfolds through a series of letters, diary entries, and newspaper articles, creating a chilling and suspenseful atmosphere.
 

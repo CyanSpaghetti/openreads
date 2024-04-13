@@ -1,4 +1,9 @@
-**"Frankenstein" by Mary Shelley:**
+---
+title: 'Frankenstein'
+author: 'Mary Shelley'
+description: 'Lorem ipsum dolor sit amet'
+heroImage: '/blog-placeholder-2.jpg'
+---
 
 "Frankenstein" by Mary Shelley, published in 1818, is a groundbreaking work of Gothic literature that explores the consequences of unchecked scientific ambition and the moral responsibility of creation. The novel begins with explorer Robert Walton's letters to his sister detailing his journey to the Arctic and the discovery of a man, Victor Frankenstein, pursuing a monstrous figure across the icy landscape.
 
